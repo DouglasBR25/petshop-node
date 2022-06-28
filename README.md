@@ -10,4 +10,4 @@ Projeto PetShop feito em NodeJS
 ### Para rodar o projeto
 `npm run start-dev`
 
-<img alt="pets.PNG" width="250px" src=""/>
+<img alt="public/images/pets.PNG" width="250px" src=""/>
